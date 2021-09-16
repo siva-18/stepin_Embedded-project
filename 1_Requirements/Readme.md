@@ -15,4 +15,4 @@ ACTIVITY-3:
 ---> In Activity-3 it displays the value of temperature as output. --->Display CDD-CRO will give the temperature value by showing PWM .
 
 ACTIVITY-4:
----> In Activity-4 in other cases LED light turn off.
+---> In Activity-4 To Serial monitor to display the Temperature(USART).
