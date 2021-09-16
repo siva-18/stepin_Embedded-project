@@ -2,7 +2,6 @@
 #define __ACTIVITY_1_H__
 /**
  * @file activity1.h
- * @author KaaviyaP (kaaviya2881999@gmail.com)
  * @brief Header file for activity1
  * @version 0.1
  * @date 2021-04-27
