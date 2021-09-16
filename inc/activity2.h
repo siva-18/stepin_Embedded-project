@@ -2,7 +2,7 @@
 #define __ACTIVITY_2_H__
 /**
  * @file activity2.h
- * @brief Header file for activity2
+ * @brief header file for activity2
  */
 
 /**
@@ -12,7 +12,7 @@
 #include <avr/io.h>
 
 /**
- * Function Definitions
+ * Function definitions
  */
 
 /**
