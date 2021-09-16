@@ -2,7 +2,7 @@
 #define __ACTIVITY_2_H__
 /**
  * @file activity2.h
- * @brief header file for activity2
+ * @brief header file for activity_2
  */
 
 /**
@@ -16,7 +16,7 @@
  */
 
 /**
- * @brief Initialize the registers for ADC setup
+ * @brief initialize the registers for ADC setup
  * 
  */
 void InitADC();
