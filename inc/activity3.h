@@ -3,9 +3,7 @@
 /**
  * @file activity3.h
  * @brief Header file for activity3
- * @version 0.1
- * @date 2021-04-27
- * 
+ * @version 0.1 
  * @copyright Copyright (c) 2021
  * 
  */
