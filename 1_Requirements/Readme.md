@@ -1,18 +1,16 @@
-SEAT HEATING APPLICATION-------
---> This project name is Seat Heating Application. --> In this project we are designing a car seat heater using a microcontroller. --> For that we are doing 4 activities.
+Introduction:
+      --->  The case study is divided into four activities.
 
-ACTIVITY-1:
----> In Activity-1 we are connecting 2 buttons for atmega328. ---> In that 2 buttons 1 is button sensor is used to say whether the passenger is seated or not. ---> Led Actuator shows the driver is seated. ---> Another one is heater button which is used to detect the heat. ---> Heater will check the heater button is ON.
+Activity_1:
+  * In Activity_1 here connecting two buttons for atmega328.In that one is used to say whether passenger is seated or not.Other one is used to detect the heat.
+  * To turn ON LED given that the heater and button are pressed.
 
-ACTIVITY-2:
----> In Activity-2 we get the detected temperature.
----> we can increase or decrease the temperature by using switch or a button.
----> we can set it to either minimum or maximum values.
----> example: In the range of (20%-33%)
----> In Activity-2 we need to get ADC.
+Activity_2:
+  * In activity_2 we get the detected temperature.
+  * To read the ADC value using potentiometer.
 
-ACTIVITY-3:
----> In Activity-3 it displays the value of temperature as output. --->Display CDD-CRO will give the temperature value by showing PWM .
+Activity_3:
+  * To read the PWM output using CRO.
 
-ACTIVITY-4:
----> In Activity-4 To Serial monitor to display the Temperature(USART).
+Activity_4:
+  * To send serial data with the help of UART protocol as we aren't using CAN.
