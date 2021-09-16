@@ -4,8 +4,6 @@
  * @file activity2.h
  * @brief Header file for activity2
  * @version 0.1
- * @date 2021-04-27
- * 
  * @copyright Copyright (c) 2021
  * 
  */
