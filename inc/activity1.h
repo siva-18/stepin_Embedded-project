@@ -2,7 +2,7 @@
 #define __ACTIVITY_1_H__
 /**
  * @file activity1.h
- * @brief Header file for activity
+ * @brief Header file for activity_1
  */
 
 
@@ -13,8 +13,8 @@
 #define F_CPU 16000000UL 	/**< clock Frequency of MCU is 16 MHz */
 #define LED_PORT (PORTD)    /**< LED Port */
 #define LED_PIN  (PORTD2)   /**< LED Pin */
-#define BUTTON_SENSOR  (PORTD0)   /**< Port for Button Sensor  */
-#define TEMP_SENSOR  (PORTD1)   /**< Port for Temperature Sensor   */
+#define BUTTON_SENSOR  (PORTD0)   /**< Port for button Sensor  */
+#define TEMP_SENSOR  (PORTD1)   /**< Port for temperature Sensor   */
 
 /**
  * Include files
@@ -24,7 +24,7 @@
 
 
 /**
- * Function Definitions
+ * Function definitions
  */
 
 /**
@@ -46,7 +46,7 @@ void TurnLED_ON();
 void TurnLED_OFF();
 
 /**
- * @brief Activity 1 to Turn ON LED if switches for Button sensor and Heator sensor are pressed 
+ * @brief Activity 1 to Turn ON LED if switches for button sensor and heator sensor are pressed 
  * 
  */
 int activity1_LED(void);
