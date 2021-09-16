@@ -1,10 +1,5 @@
 /**
  * @file activity2.c
- * @brief Functions to get the ADC values 
- * @version 0.1
- * @date 2021-04-27
- * 
- * @copyright Copyright (c) 2021
  * 
  */
 
