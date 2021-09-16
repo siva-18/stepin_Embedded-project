@@ -3,9 +3,6 @@
 /**
  * @file activity2.h
  * @brief Header file for activity2
- * @version 0.1
- * @copyright Copyright (c) 2021
- * 
  */
 
 /**
@@ -25,18 +22,18 @@
 void InitADC();
 
 /**
- * @brief Gives the ADC values for the selected channel
+ * @brief gives the ADC values for the selected channel
  * 
- * @param[in] ch Channel number from 0-7
+ * @param[in] ch channel number from 0-7
  * @return uint16_t ADC value
  */
 uint16_t ReadADC(uint8_t ch);
 
 /**
- * @brief Return the ADC value to main function
+ * @brief return the ADC value to main function
  * 
- * @return uint16_t The ADC value
+ * @return uint16_t the ADC value
  */
-uint16_t activity2_GetADC(void);
+uint16_t activity2_getADC(void);
 
 #endif /* __ACTIVITY_2_H__ */
