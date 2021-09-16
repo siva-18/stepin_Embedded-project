@@ -28,7 +28,7 @@
 |29 DEGREES|33 DEGREES|
 |![29](https://user-images.githubusercontent.com/80662569/116462509-233a3280-a887-11eb-9b8f-c925bc36cdcd.PNG)|![33](https://user-images.githubusercontent.com/80662569/116462511-233a3280-a887-11eb-91a9-a11098dc7529.PNG)|
 
-|Build|Cppcheck|Codacy|
+|Codacy|Codegrade|Build|Cppcheck|
 |:--:|:--:|:--:|
 |[![code quality](https://www.code-inspector.com/project/28694/score/svg)]|[![code_score](https://www.code-inspector.com/project/28694/status/svg)]|[![Compile-Linux](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/compile.yml/badge.svg)](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/compile.yml)|[![Cppcheck](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/code%20Quality.yml/badge.svg)](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/code%20Quality.yml)|
 
