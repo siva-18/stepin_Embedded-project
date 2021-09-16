@@ -2,10 +2,7 @@
 #define __ACTIVITY_3_H__
 /**
  * @file activity3.h
- * @brief Header file for activity3
- * @version 0.1 
- * @copyright Copyright (c) 2021
- * 
+ * @brief Header file for activity_3 
  */
 
 /**
@@ -23,19 +20,19 @@
 #include <avr/io.h>
 
 /**
- * Function Definitions
+ * Function definitions
  */
 
 /**
- * @brief Initialize Timer1 registers 
+ * @brief initialize timer1 registers 
  * 
  */
 void InitTimer();
 
 /**
- * @brief Produce duty cycle in PWM according to i/p ADC value
+ * @brief produce duty cycle in PWM according to i/p ADC value
  * 
- * @param[in] temp The ADC value from activity2
+ * @param[in] temp the ADC value from activity_2
  */
 void activity3_PWM(uint16_t temp);
 
