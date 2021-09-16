@@ -32,8 +32,8 @@
 |:--:|:--:|:--:|
 [![code quality](https://www.code-inspector.com/project/28694/score/svg)]
 [![code_score](https://www.code-inspector.com/project/28694/status/svg)]
-|[![Compile-Linux](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/compile.yml/badge.svg)](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/compile.yml)|
-|[![Cppcheck](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/code%20Quality.yml/badge.svg)](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/code%20Quality.yml)|
+|![Compile-Linux](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/compile.yml/badge.svg)](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/compile.yml)|
+|![Cppcheck](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/code%20Quality.yml/badge.svg)](https://github.com/siva-18/stepin_Embedded-project/actions/workflows/code%20Quality.yml)|
 
 
 
