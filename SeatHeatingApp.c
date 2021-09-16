@@ -1,10 +1,5 @@
 /**
  * @file SeatHeatingApp.c
- * @brief Heat Seating Application to set Temperature of seat
- * @version 0.1
- * @date 2021-04-27 
- * 
- * @copyright Copyright (c) 2021
  * 
  */
 
@@ -19,13 +14,13 @@ int main(void)
     
     while(1)
     {
-        if(activity1_LED()==1) //Check if both the switches are pressed
+        if(activity1_LED()==1) //check if both the switches are pressed
         {
            
             TurnLED_ON();//Turn LED ON
-            temp=activity2_GetADC(); //Get the ADC value
+            temp=activity2_GetADC(); //get the ADC value
             activity3_PWM(temp); //PWM output based on temperature
-		    activity4_USARTWrite(temp); //To Serial monitor to print Temperature
+		    activity4_USARTWrite(temp); //to Serial monitor to print Temperature
             
 
         }
