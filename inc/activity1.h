@@ -2,10 +2,7 @@
 #define __ACTIVITY_1_H__
 /**
  * @file activity1.h
- * @brief Header file for activity1
- * @version 0.1 
- * @copyright Copyright (c) 2021
- * 
+ * @brief Header file for activity
  */
 
 
